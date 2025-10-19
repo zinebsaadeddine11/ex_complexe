@@ -15,11 +15,6 @@ void Complexe::afficher() const
         cout << this->re << "-i" << -(this->img) << endl;
 }
 
-//Complexe Complexe::add(Complexe c)
-//{
-//    Complexe z(re + c.re, img + c.img); 
-//    return z;
-//}
 
 
 Complexe Complexe::conjugue()
