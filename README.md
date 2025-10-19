@@ -8,7 +8,7 @@ Il supporte :
 - Comparaison (==, !=)  
 - Surcharge des opérateurs +,-,*,/
 
-#Fichiers
-Complexe.h : déclaration de la classe Complexe
-Complexe.cpp : définition des méthodes
-ex_complexe.cpp : "main" exemple d’utilisation de la classe
+##Fichiers
+-Complexe.h : déclaration de la classe Complexe
+-Complexe.cpp : définition des méthodes
+-ex_complexe.cpp : "main" exemple d’utilisation de la classe
